@@ -1,0 +1,47 @@
+<!--clase "todo" adapta pantalla -->>
+
+.todo {
+}
+#cabecera {
+	opacity: 1;
+	text-align: center;
+
+}
+#contenido {
+	min-height: 100%;
+    width: 100%;
+	max-width: 100%;
+
+
+
+}
+#footer {
+
+}
+#img1 {
+	height: auto; 
+	width: 100%;
+
+}
+#img2 {
+	height: auto;
+	width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+	   
+	  #contenido { 
+       font-size: 10px;
+	   overflow-y:hidden;
+      }
+	  
+	  tr th{
+		  display: block;   
+       }
+      
+	  tbody td{
+		  display: block;   
+      }
+}
+
+
