@@ -16,7 +16,6 @@ Descripcion Varchar(300)
 Completada Varchar(30)
 
 -->
-
 <html>
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -83,7 +82,6 @@ Completada Varchar(30)
   	</div>
 
 </div>
-
 
 </body>
 </html>
